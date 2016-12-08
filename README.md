@@ -1,5 +1,7 @@
 「君の名は。」裡面 My Dairy 用的字體是晴圓
 
+其他素材來自 https://github.com/erttyy8821/MyDiary
+
 WIP 未完成
 
 ![](http://ww2.sinaimg.cn/large/6d9bd6a5gw1fak3j34koxj21a70p3469.jpg)
